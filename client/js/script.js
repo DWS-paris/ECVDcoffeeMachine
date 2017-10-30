@@ -270,6 +270,10 @@ document.addEventListener('DOMContentLoaded', function(event) {
             restart();
         };
 
+        document.getElementById('mainTitle').onclick = function(){
+            restart();
+        };
+
     // 
 
     /*
