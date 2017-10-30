@@ -9,5 +9,7 @@ Si vous possédez une [Wemos D1 R2](https://hackspark.fr/fr/wemos-d1-esp8266-ard
 Liens pour télécharger les drivers : 
 - [Windows](https://wiki.wemos.cc/_media/file:ch341ser_win.zip)
 - [Mac OSX](https://wiki.wemos.cc/_media/ch341ser_mac-1.4.zip)
+
 <br>
+
 Une fois la driver de votre carte installé, vous devez configurer l'IDE [Arduino](https://www.arduino.cc/en/Main/Software) pour qu'il intègre le gestionnaires de la puce [ESP8266](https://fr.wikipedia.org/wiki/ESP8266). Ouvrez votre [IDEArduino](https://www.arduino.cc/en/Main/Software), sélectionnez l'option "Préférences" et rentrez l'adresse suivante dans le gestionnaire de cartes supplémentaires :
