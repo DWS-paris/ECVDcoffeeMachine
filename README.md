@@ -17,4 +17,4 @@ Une fois la driver de votre carte installé, vous devez configurer l'[IDE Arduin
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
 
-L'installation de cette bibliothèque vous permettra de sélectionner votre modèle de carte dans votre [IDE Arduino](https://www.arduino.cc/en/Main/Software). Une fois votre carte sélectionnée, vous pouvez ouvrir le fichier "WEMOSwebServer.ino" pour modifier les identifiants WiFi et téléverser le programme sur votre microcontrôlleur. Ouvrez le moniteur série quand le sketch et téléversé pour voir l'activité de la carte.
+L'installation de cette bibliothèque vous permettra de sélectionner votre modèle de carte dans votre [IDE Arduino](https://www.arduino.cc/en/Main/Software). Une fois votre carte sélectionnée, vous pouvez ouvrir le fichier [WEMOSwebServer.ino](https://github.com/DWS-paris/ECVDcoffeeMachine/blob/master/WEMOSwebServer.ino) pour modifier les identifiants WiFi et téléverser le programme sur votre microcontrôlleur. Ouvrez le moniteur série quand le sketch et téléversé pour voir l'activité de la carte.
