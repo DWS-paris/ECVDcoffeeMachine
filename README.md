@@ -8,8 +8,6 @@ Pour utiliser ce repo vous devez pocéder un microcontrôleur disposant d'une pu
 ## Installer le driver de la carte WeMos D1 R2
 Si vous possédez une [Wemos D1 R2](https://hackspark.fr/fr/wemos-d1-esp8266-arduino-compatible-layout-wifi-80-160mhz-4mb-flash.html), vous devez installer les drivers nécessaires pour faire fonctionner la carte sur votre odinateur. La [Wemos D1 R2](https://hackspark.fr/fr/wemos-d1-esp8266-arduino-compatible-layout-wifi-80-160mhz-4mb-flash.html) est un modèle de microcontrôlleur récent, il est possible que la configuration ne soit pas possible sur votre ordinateur, si c'est le cas, optez pour une [ESP-WROOM-32](https://hackspark.fr/fr/esp-32-devkitc-esp32-esp-wroom-32.html) qui est plus simple à configurer.
 
-<br>
-
 Liens pour télécharger les drivers : 
 - [Windows](https://wiki.wemos.cc/_media/file:ch341ser_win.zip)
 - [Mac OSX](https://wiki.wemos.cc/_media/ch341ser_mac-1.4.zip)
