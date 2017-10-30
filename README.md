@@ -11,6 +11,7 @@ Liens pour télécharger les drivers :
 - [Mac OSX](https://wiki.wemos.cc/_media/ch341ser_mac-1.4.zip)
 <br>
 Une fois la driver de votre carte installé, vous devez configurer l'[IDE Arduino](https://www.arduino.cc/en/Main/Software) pour qu'il intègre le gestionnaires de la puce [ESP8266](https://fr.wikipedia.org/wiki/ESP8266). Ouvrez votre [IDE Arduino](https://www.arduino.cc/en/Main/Software), sélectionnez l'option "Préférences" et rentrez l'adresse suivante dans le gestionnaire de cartes supplémentaires :
+
 <br>
 ```
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
