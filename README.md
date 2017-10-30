@@ -1,2 +1,2 @@
 # ECV Digital "The Hacked Coffee Machine
-Projet de hacking d'une machine à café depuis un serveur Web hébergé sur une carte WeMos D1 R2.
+Ce repo présente un projet réalisé en collaboration entre [Anthonny Baillard](https://www.linkedin.com/in/anthonybaillard/), [Damien Truffaut](https://www.linkedin.com/in/damient75/) et [Julien Noyer](https://www.linkedin.com/in/julien-noyer-21219b28/) à l'occasion du Hackathon organisé par l'[ECV Digital Paris](http://www.ecvdigital.fr/) les 26 et 27 octobre 2017.
